@@ -1,3 +1,4 @@
+/*
 package org.example.multithreading.executor;
 
 import java.util.concurrent.Executors;
@@ -11,3 +12,4 @@ public class VirtualThreadExample {
         }
     }
 }
+*/
